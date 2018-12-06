@@ -1,7 +1,6 @@
-
-
 # iTrack
-
+#Clone
+https://github.com/sagarbeheragit/iTrack_Alexa.git
 
 1. backend code - index.js ## TODO in in app.js
 2. Code to be installed in Lamda. Just zip and upload
@@ -19,10 +18,8 @@
 4. To implement aws-lambda-mock-context test cases
 
 # To chekout and check-in
-
 git clone https://github.com/sagarbeheragit/iTrack_Alexa.git
 git init
 echo 'node_modules' > .gitignore
 git add *
 git commit -m 'my first commit'
-
