@@ -1,0 +1,22 @@
+{
+  "name": "itrack",
+  "version": "1.0.0",
+  "description": "Track FedEx Shipments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "author": "Pandavas",
+  "license": "ISC",
+  "devDependencies": {
+    "alexa-sdk": "^1.0.25",
+    "alexa-skill-test-framework": "^1.2.4",
+    "aws-lambda-mock-context": "^3.2.1",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
