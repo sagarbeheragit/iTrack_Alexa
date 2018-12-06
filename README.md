@@ -18,8 +18,8 @@ https://github.com/sagarbeheragit/iTrack_Alexa.git
 4. To implement aws-lambda-mock-context test cases
 
 # To chekout and check-in
-git clone https://github.com/sagarbeheragit/iTrack_Alexa.git
-git init
-echo 'node_modules' > .gitignore
-git add *
-git commit -m 'my first commit'
+1. git clone https://github.com/sagarbeheragit/iTrack_Alexa.git
+2. git init
+3. echo 'node_modules' > .gitignore
+4. git add *
+5. git commit -m 'my first commit'
