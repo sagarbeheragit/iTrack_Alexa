@@ -23,3 +23,4 @@ https://github.com/sagarbeheragit/iTrack_Alexa.git
 3. echo 'node_modules' > .gitignore
 4. git add *
 5. git commit -m 'my first commit'
+6. git push -u origin master
