@@ -9,11 +9,7 @@ https://github.com/sagarbeheragit/iTrack_Alexa.git
 
 # Instrcution For Devlopers:
 1. No node moudles to be checked in. Use - echo 'node_modules' > .gitignore while checking in.
-2. To build install the followings from root folder:
-    A. npm install mocha chai --save-dev
-    B. npm install alexa-skill-test-framework --save-dev
-    C. npm install aws-lambda-mock-context --save-dev
-    D. npm install alexa-sdk --save
+2. To build install the followings from root folder: -  npm install
 3. Running the test - npm test (package.json - "test": "mocha")
 4. To implement aws-lambda-mock-context test cases
 
