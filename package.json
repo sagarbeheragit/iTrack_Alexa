@@ -15,7 +15,6 @@
   "devDependencies": {
     "alexa-sdk": "^1.0.25",
     "alexa-skill-test-framework": "^1.2.4",
-    "aws-lambda-mock-context": "^3.2.1",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
